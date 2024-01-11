@@ -52,9 +52,9 @@ python main.py
 1. Install PyInstaller from PyPI:
 
 ```bash
-pip install pyinstaller
+pip install -U pyinstaller
 ```
-
+py
 1. Build the app with the following command:
 
 ```bash
