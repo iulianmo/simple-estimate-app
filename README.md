@@ -58,7 +58,7 @@ python main.py
 pip install -U pyinstaller
 ```
 
-1. Build the app with the following command:
+2. Build the app with the following command:
 
 ```bash
 pyinstaller main.py
