@@ -28,7 +28,7 @@ git clone https://github.com/iulianmo/simple-estimate-app.git
 cd simple-estimate-app
 ```
 
-1. Run the application:
+2. Run the application:
 
 ```bash
 python main.py
@@ -39,10 +39,10 @@ python main.py
 
 ## Usage
 
-1. **Quote Name**: Enter the name of the quote in the appropriate field.
-2. **Add Service**: Click "Add Service" to insert services with prices and measurements.
-3. **Total**: Click "Total" to calculate the total cost of the added services.
-4. **Create Estimate**: After entering all details, click "Generate Quote" to generate a DOCX document with the quote.
+- **Quote Name**: Enter the name of the quote in the appropriate field.
+- **Add Service**: Click "Add Service" to insert services with prices and measurements.
+- **Total**: Click "Total" to calculate the total cost of the added services.
+- **Create Estimate**: After entering all details, click "Generate Quote" to generate a DOCX document with the quote.
 
 ## Keyboard Shortcuts
 
