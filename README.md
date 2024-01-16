@@ -24,8 +24,8 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/iulianmo/simple_stimate.git
-cd simple_estimate
+git clone https://github.com/iulianmo/simple-estimate-app.git
+cd simple-estimate-app
 ```
 
 1. Run the application:
