@@ -34,6 +34,9 @@ cd simple_estimate
 python main.py
 ```
 
+![GUI](gui.png)
+
+
 ## Usage
 
 1. **Quote Name**: Enter the name of the quote in the appropriate field.
