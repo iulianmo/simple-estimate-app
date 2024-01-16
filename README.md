@@ -42,7 +42,7 @@ python main.py
 1. **Quote Name**: Enter the name of the quote in the appropriate field.
 2. **Add Service**: Click "Add Service" to insert services with prices and measurements.
 3. **Total**: Click "Total" to calculate the total cost of the added services.
-4. **Generate Quote**: After entering all details, click "Generate Quote" to generate a DOCX document with the quote.
+4. **Create Estimate**: After entering all details, click "Generate Quote" to generate a DOCX document with the quote.
 
 ## Keyboard Shortcuts
 
